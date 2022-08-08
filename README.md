@@ -2,7 +2,7 @@
 
 <p align="left"> 
   Mineira and a technology enthusiast. I moved to Espirito Santo to study Computer Science
-  and improve my knowledge about programming. Future front-end dev.
+  and improve my knowledge about programming.
 </p>
 
 <p align="left">
