@@ -10,7 +10,7 @@
 </p>
 
 <p align="left">
-  💼 Programming tools: <strong>GIT, BOOTSTRAP, REACTJS.</strong>
+  💼 Programming tools: <strong>GIT, BOOTSTRAP.</strong>
 </p>
 
 <p align="left">
