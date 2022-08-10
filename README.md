@@ -6,11 +6,11 @@
 </p>
 
 <p align="left">
-  💻 Languages: <strong>HTML, CSS, JAVASCRIPT, NODEJS.</strong>
+  💻 Languages: <strong>HTML, CSS, JAVASCRIPT.</strong>
 </p>
 
 <p align="left">
-  🛠️ Programming tools: <strong>GIT, BOOTSTRAP.</strong>
+  🛠️ Programming tools: <strong>GIT, NODEJS, BOOTSTRAP.</strong>
 </p>
 
 <p align="left">
