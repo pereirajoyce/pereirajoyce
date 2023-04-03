@@ -10,7 +10,7 @@
 </p>
 
 <p align="left">
-  🛠️ Programming tools: <strong>GIT, NODEJS/EXPRESS, REACT, BOOTSTRAP.</strong>
+  🛠️ Programming tools: <strong>GIT, NODEJS, REACT, MONGODB, BOOTSTRAP.</strong>
 </p>
 
 <p align="left">
