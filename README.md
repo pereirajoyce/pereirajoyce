@@ -6,11 +6,11 @@
 </p>
 
 <p align="left">
-  💻 Languages: <strong>HTML/CSS, JAVASCRIPT.</strong>
+  💻 Languages: <strong>HTML/CSS, TYPESCRIPT, JAVA, SQL.</strong>
 </p>
 
 <p align="left">
-  🛠️ Programming tools: <strong>GIT, NODEJS/EXPRESS, ANGULAR, BOOTSTRAP.</strong>
+  🛠️ Programming tools: <strong>GIT, NODEJS/EXPRESS, REACT, BOOTSTRAP.</strong>
 </p>
 
 <p align="left">
@@ -18,7 +18,7 @@
 </p>
 
 <p align="left">
-  <a href="mailto:pereirapjoy@gmail.com" alt="Gmail">
+  <a href="mailto:joycestormz@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=joyce_paiva32@hotmail.com" /></a>
 
   <a href="https://www.linkedin.com/in/pereirajoyce" alt="Linkedin">
