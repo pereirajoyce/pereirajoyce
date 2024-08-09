@@ -6,11 +6,11 @@
 </p>
 
 <p align="left">
-  💻 Languages: <strong>HTML/CSS, TYPESCRIPT, JAVA, SQL.</strong>
+  💻 Languages: <strong>HTML/CSS, TYPESCRIPT, JAVA, C#, SQL.</strong>
 </p>
 
 <p align="left">
-  🛠️ Programming tools: <strong>GIT, NODEJS, REACT, MONGODB, BOOTSTRAP.</strong>
+  🛠️ Programming tools: <strong>GIT, NODEJS, ANGULAR, .NET CORE, BOOTSTRAP.</strong>
 </p>
 
 <p align="left">
