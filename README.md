@@ -1,16 +1,8 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Mineira and a technology enthusiast. I moved to Espirito Santo to study Computer Science
-  and improve my knowledge about programming.
-</p>
-
-<p align="left">
-  💻 Languages: <strong>HTML/CSS, TYPESCRIPT, JAVA, C#, SQL.</strong>
-</p>
-
-<p align="left">
-  🛠️ Programming tools: <strong>GIT, NODEJS, ANGULAR, .NET CORE, BOOTSTRAP.</strong>
+  Whether it’s coding, problem-solving, or exploring the latest in tech,
+  I thrive on challenges and continuous learning.
 </p>
 
 <p align="left">
